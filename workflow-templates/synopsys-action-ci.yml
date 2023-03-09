@@ -1,10 +1,10 @@
-name: Kiran
+name: Octo Organization CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ $default-branch ]
   pull_request:
-    branches: [ main ]
+    branches: [ $default-branch ]
 
 jobs:
   build:

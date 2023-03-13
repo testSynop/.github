@@ -1,6 +1,6 @@
 # Copyright (c) 2021 , Inc. All rights reserved worldwide.
 
-name: 'ActionSCAN'
+name: 'ActionSCAN1'
 description: 'Initiate optimized SAST/SCA scans based on code changes and policy with filtered results for display in GitHub.'
 author: 'DevSecOps'
 branding:
